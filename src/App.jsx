@@ -11,9 +11,7 @@ function App() {
 
     <NavBar/>
     
-    
-
-    <ItemListContainer />
+    <ItemListContainer text="Bienvenidos a Vanguard E-commerce" />
     </>
   )
 }
