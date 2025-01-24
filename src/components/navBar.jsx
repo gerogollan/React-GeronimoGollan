@@ -1,7 +1,7 @@
 import LOGO from '../sources/BLACKLOGO.png';
-import ButtonComponent from './buttonComponent.jsx';
-import CartWidget from './cartWidget.jsx';
-import './navBar.css';
+import ButtonComponent from './ButtonComponent.jsx';
+import CartWidget from './CartWidget.jsx';
+import './NavBar.css';
 
 
 export default function NavBar(){

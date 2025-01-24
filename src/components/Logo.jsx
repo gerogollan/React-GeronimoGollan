@@ -1,5 +1,5 @@
 import LOGO from './sources/BLACKLOGO.png';
-import './logo.css';
+import './Logo.css';
 
 export default function LogoComponent(){
 
